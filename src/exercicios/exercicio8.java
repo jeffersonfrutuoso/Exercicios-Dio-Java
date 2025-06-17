@@ -15,36 +15,42 @@ public class exercicio8 {
 
         if(a >= b && a >= c){
             if ( b >= c){
+                System.out.println("=======maior para o menor=======");
                 System.out.println(a + " " + b + " " + c);
             }
         }
 
         if(a >= b && a >= c){
             if ( c >= b){
+                System.out.println("=======maior para o menor=======");
                 System.out.println(a + " " + c + " " + b);
             }
         }
 
         if(b >= a && b >= c){
             if ( a >= c){
+                System.out.println("=======maior para o menor=======");
                 System.out.println(b + " " + a + " " + c);
             }
         }
 
         if(b >= a && b >= c){
             if ( c >= a){
+                System.out.println("=======maior para o menor=======");
                 System.out.println(b + " " + c + " " + a);
             }
         }
 
         if(c >= a && c >= b){
             if ( b >= a){
+                System.out.println("=======maior para o menor=======");
                 System.out.println(c + " " + b + " " + a);
             }
         }
 
         if(c >= a && c >= b){
             if ( a >= b){
+                System.out.println("=======maior para o menor=======");
                 System.out.println(c + " " + a + " " + b);
             }
         }
