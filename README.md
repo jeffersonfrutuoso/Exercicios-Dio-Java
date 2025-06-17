@@ -1,6 +1,6 @@
 # 🧠 Lista de Exercícios de Lógica de Programação em Java
 
-Bem-vindo(a)! Esta é uma coletânea de **exercícios de lógica de programação** desenvolvidos com foco na linguagem **Java**, ideal para quem está começando ou deseja reforçar a base lógica de programação.
+
 
 Esses exercícios envolvem estruturas básicas como: variáveis, condicionais, laços de repetição, operadores lógicos, entre outros.
 
